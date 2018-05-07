@@ -2,7 +2,7 @@
 
 ## Description
 
-sports-betting-for-drinking-buddies
+sports-betting-api-for-drinking-buddies
 
 ## Installation
 
@@ -36,3 +36,6 @@ $ npm run test:e2e
 $ npm run test:cov
 ```
 
+## Todo
+
+- Error handling

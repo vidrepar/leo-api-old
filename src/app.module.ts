@@ -5,7 +5,10 @@ import { DrinkingBuddiesController } from './drinking-buddies/drinking-buddies.c
 
 @Module({
   imports: [],
-  controllers: [AppController, DrinkingBuddiesController],
-  providers: [ AppService ]
+  controllers: [
+    AppController,
+    DrinkingBuddiesController,
+  ],
+  providers: [ AppService ],
 })
 export class AppModule {}
